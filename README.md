@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
 <a href="https://github.com/zakyscripters/">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakyscripters&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=zakyscripters&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakyscripters&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 </a>
 </div>
@@ -17,7 +17,7 @@
 - **stack**:
 
     [![React.js](https://img.shields.io/badge/React.js%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-    [![Next.js](https://img.shields.io/badge/Next.js%20-%2314354C.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/).
+    [![Next.js](https://img.shields.io/badge/Next.js%20-%2314354C.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
     [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ## <b> Let's Connect..!</b>
