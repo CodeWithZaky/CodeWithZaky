@@ -1,8 +1,5 @@
-<h1 align="center"><b>Hi , I'm Zaky</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=179c3f&size=25&center=true&vCenter=true&width=800&height=50&lines=Front-End+Developer,;Active+Learner/Researcher,;likes+to+explore+new+things..."/>
-</a>
-</p>
+<h1 align="center"><b>Hi , I'm Zaky</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=179c3f&size=33&center=true&vCenter=true&width=800&height=50&lines=Front-End+Developer,;Active+Learner/Researcher,;likes+to+explore+new+things..."/></h1>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
@@ -15,14 +12,15 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
-
+  
 - **stack**:
-
+  
     [![React.js](https://img.shields.io/badge/React.js%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
     [![Next.js](https://img.shields.io/badge/Next.js%20-%2314354C.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
     [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript%20-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-## <b> Let's Connect..!</b>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> <b> Let's Connect..!</b>
 <div align='left'>
 <ul>
 <li>
