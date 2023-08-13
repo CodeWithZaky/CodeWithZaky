@@ -1,12 +1,13 @@
 <h1 align="center"><b>Hi , I'm Zaky</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=50&lines=Front-End+Developer,;Active+Learner/Researcher,;likes+to+explore+new+things..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=50&lines=Front-End+Developer,;Active+Learner/Researcher,;likes+to+explore+new+things..."/></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
 <a href="https://github.com/zakyscripters/">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakyscripters&include_all_commits=true&count_private=true&show_icons=true&line_height=23&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakyscripters&theme=tokyonight&hide=contribs,issues)
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakyscripters&show_icons=true&locale=en&layout=compact&line_height=19&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="379"  alt="0xabdulkhalid"/> -->
 </a>
 </div>
