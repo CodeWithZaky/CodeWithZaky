@@ -28,14 +28,10 @@
   <a href="https://www.linkedin.com/in/ahmad-zaky-ubaidillah-1b2721276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
-</li>
-<li>
-  <a href="mailto:ahmadzakyubaidillah@gmail.com" target="_blank">
+    <a href="mailto:ahmadzakyubaidillah@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
   </a>
-</li>
- <li>
-  <a href="https://www.instagram.com/superrrrrrrzzzzzzz/" target="_blank">
+    <a href="https://www.instagram.com/superrrrrrrzzzzzzz/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
   </a>
 </li>
