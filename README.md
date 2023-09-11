@@ -33,7 +33,7 @@
     <a href="mailto:ahmadzakyubaidillah@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
   </a>
-    <a href="https://www.instagram.com/superrrrrrrzzzzzzz/" target="_blank">
+    <a href="https://www.instagram.com/zaky0bed/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
   </a>
 </li>
