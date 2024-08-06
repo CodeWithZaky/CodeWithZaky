@@ -37,6 +37,12 @@
     <a href="https://tailwindcss.com/">
       <img src="https://img.shields.io/badge/Tailwind%20CSS%20-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
     </a>
+    <a href="https://ui.shadcn.com/">
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn ui"/>
+    </a>
+    <a href="https://www.prisma.io/">
+      <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+    </a>
   </div>
 </div>
 
