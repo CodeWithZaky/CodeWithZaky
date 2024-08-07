@@ -19,7 +19,20 @@
   </a>
 </div>
 
-<div>
+## Skills
+
+- **Languages & Frameworks:** Javascript, Typescript, React, NextJs, Php, Laravel, NestJs
+- **Libraries & Tools:** Trpc, RestApi, NextAuth, Tailwind, ShadcnUI, MagicUI, DaisyUI
+- **Databases:** PostgreSql, MySql, SQLite
+- **Fullstack Development:** T3Stack
+
+## Contact
+
+- **Email:** [ahmadzakyubaidillah@gmail.com](mailto:ahmadzakyubaidillah@gmail.com)
+- **LinkedIn:** [Ahmad Zaky Ubaidillah](https://www.linkedin.com/in/ahmad-zaky-ubaidillah)
+- **Instagram:** [zaky0bed](https://www.instagram.com/zaky0bed)
+
+<!-- <div>
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
     <b> my stacks</b>
@@ -54,6 +67,7 @@
   </div>
 </div>
 
+
 <div>
   <h2>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
@@ -71,3 +85,4 @@
     </a>
   </div>
 </div>
+-->
