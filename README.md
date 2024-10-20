@@ -22,8 +22,8 @@
 ## Skills
 - **Languages:** Javascript, Typescript, Php
 - **Frameworks:** React, NextJs, Laravel, NestJs
-- **UI Framework:** Tailwind Css, ShadcnUI, MagicUI, DaisyUI
-- **Tech Library:** NextAuth/Authjs, PrismaORM 
+- **UI Frameworks:** Tailwind Css, ShadcnUI, MagicUI, DaisyUI
+- **Tech Libraries:** NextAuth/Authjs, PrismaORM 
 - **Server:** Trpc, RestApi
 - **Databases:** PostgreSql, MySql
 - **Fullstack Development:** T3Stack
