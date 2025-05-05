@@ -16,7 +16,7 @@
 - 📝 **Catatanku** – A simple note-taking app for everyone  
   → [GitHub Repo](https://github.com/CodeWithZaky/catatanku)
 
-- 🧑‍💼 **Magangku** – Internship management app for students and mentors  
+- 🧑‍💼 **Magangku** – Admin dashboard to manage internship students  
   → [GitHub Repo](https://github.com/CodeWithZaky/magangku)
 
 ---
